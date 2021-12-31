@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=ytxfate&show_icons=true&theme=gruvbox) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ytxfate&theme=dark&layout=compact)
